@@ -6,11 +6,12 @@ private:
             s.insert(temp);
             return;
         }
-
-        temp.push_back(nums[index]);
-        dpcheck(s,nums,temp,index+1);
-        temp.pop_back();
-        dpcheck(s,nums,temp,index+1);
+        if(index < n){
+            temp.push_back(nums[index]);
+            dpcheck(s,nums,temp,index+1);
+            temp.pop_back();
+            dpcheck(s,nums,temp,index+1);
+        }
     }
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
