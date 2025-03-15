@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->
