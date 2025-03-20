@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -77,10 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
