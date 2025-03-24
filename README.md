@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3817-maximum-containers-on-a-ship](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Geometry
 |  |
 | ------- |
