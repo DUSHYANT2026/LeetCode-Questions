@@ -8,9 +8,9 @@ private:
         int count = 0; int notcount = 0;
 
         count = dpsolve(index - 2, nums, dp) + nums[index];
-        if(index > 0){
+        // if(index > 0){
             notcount = dpsolve(index - 1, nums, dp);
-        }
+        // }
         return  dp[index] = max(count,notcount);
     }
 public:
