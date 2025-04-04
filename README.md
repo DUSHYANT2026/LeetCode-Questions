@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
