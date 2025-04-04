@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
