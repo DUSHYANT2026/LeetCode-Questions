@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 ## Sorting
 |  |
 | ------- |
