@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
+| [2262-solving-questions-with-brainpower](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Prefix Sum
 |  |
