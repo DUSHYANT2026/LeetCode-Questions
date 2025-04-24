@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
