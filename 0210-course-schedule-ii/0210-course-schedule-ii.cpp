@@ -6,12 +6,13 @@ public:
         vector<int> indgree(n,0);
         for(auto it : edges){
             graph[it[0]].push_back(it[1]);
+            indgree[it[1]]++;
         }
-        for(int i=0; i<n; i++){
-            for(auto it : graph[i]){
-                indgree[it]++;
-           }
-        }
+        // for(int i=0; i<n; i++){
+        //     for(auto it : graph[i]){
+        //         indgree[it]++;
+        //    }
+        // }
         queue<int> q;
         for(int i=0; i<n; i++){
             if(indgree[i] == 0) q.push(i);
