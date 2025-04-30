@@ -1,6 +1,6 @@
 class Solution {
 private:
-    void dfscheck(int node,vector<int> &vis, vector<int> graph[]){
+    void dfscheck(int node,vector<int> &vis,vector<int> graph[]){
         vis[node] = 1;
         for(auto it : graph[node]){
             if(!vis[it]){
@@ -11,7 +11,7 @@ private:
 public:
     int findCircleNum(vector<vector<int>>& isconnected) {
         int n = isconnected.size();
-        vector<int> graph[n+1];
+        vector<int> graph[n];
 
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
@@ -26,8 +26,7 @@ public:
         int ans = 0;
         for(int i=0; i<n; i++){
             if(!vis[i]){
-                dfscheck(i,vis,graph);
-                ans++;
+                dfscheck(i,vis,graph); ans++;
             }
         }
         return ans;
