@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
