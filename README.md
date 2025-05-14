@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Sorting
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Memoization
 |  |
