@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
