@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3817-maximum-containers-on-a-ship](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3817-maximum-containers-on-a-ship) |
 ## Geometry
 |  |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 ## Queue
 |  |
 | ------- |
