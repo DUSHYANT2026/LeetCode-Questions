@@ -36,18 +36,15 @@ private:
         if (i == n - 1) return grid[i][j];
         if (dp[i][j] != -1) return dp[i][j];
         
-        int min_cost = INT_MAX;
-        int current_val = grid[i][j];
-        
-        // Consider all possible columns in the next row
-        for (int j_next = 0; j_next < m; ++j_next) {
-            int cost = current_val + moveCost[current_val][j_next] + dpcheck(i + 1, j_next, n, m, dp, grid, moveCost);
-            if (cost < min_cost) {
-                min_cost = cost;
+        int ans = INT_MAX;
+
+        for(int k=0; k<m; k++) {
+            int cost = grid[i][j] + moveCost[grid[i][j]][k] + dpcheck(i+1,k, n, m, dp, grid, moveCost);
+            if(cost < ans){
+                ans = cost;
             }
         }
-        
-        return dp[i][j] = min_cost;
+        return dp[i][j] = ans;
     }
 
 public:
@@ -63,3 +60,36 @@ public:
         return ans;
     }
 };
+
+
+
+
+
+
+// int minPathCost(vector<vector<int>>& grid, vector<vector<int>>& moveCost) {
+//     int m = grid.size(), n = grid[0].size();
+//     vector<vector<int>> visitedCost(m, vector<int>(n, INT_MAX));
+//     priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+
+//     for(int j=0; j<n; j++)
+//         pq.push({grid[0][j], 0, j});
+
+//     while(!pq.empty()){
+//         int costTillHere = pq.top()[0];
+//         int x = pq.top()[1];
+//         int y = pq.top()[2];
+//         pq.pop();
+
+//         if(x == m-1)
+//             return costTillHere;
+
+//         for(int dy = 0; x+1 < m && dy < n; dy++){
+//             int newCost = costTillHere  + moveCost[grid[x][y]][dy] + grid[x+1][dy];
+//             if(newCost < visitedCost[x+1][dy]){
+//                 visitedCost[x+1][dy] =  newCost;
+//                 pq.push({newCost, x+1, dy});
+//             }
+//         }
+//     }
+//     return -1;
+// }
