@@ -4,7 +4,7 @@ public:
         int n = grid.size(); int m = grid[0].size();
         // vector<vector<int>> vis(n ,vector<int> (m,0));
         if(grid[0][0] == 1 || grid[n-1][m-1] == 1) return -1;
-        vector<vector<int>> ans(n,vector<int> (m,-1));
+        vector<vector<int>> ans(n,vector<int> (m,1e9));
         queue<pair<pair<int,int>,int>> q;
         q.push({{0,0},1});
         ans[0][0] = 1;
@@ -22,7 +22,7 @@ public:
                 int nrow = row + drow[i];
                 int ncol = col + dcol[i];
                 if(nrow >= 0 && ncol >= 0 && nrow < n && ncol < m && grid[nrow][ncol] == 0){
-                    if(ans[nrow][ncol] == -1){
+                    if(ans[nrow][ncol] > dis + 1){
                         ans[nrow][ncol] = dis + 1;
                         q.push({{nrow,ncol},dis+1});
                     }
