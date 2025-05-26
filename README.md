@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -242,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -267,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -369,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Linked List
 |  |
