@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -349,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -401,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
