@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -394,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -410,4 +415,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
