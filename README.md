@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
