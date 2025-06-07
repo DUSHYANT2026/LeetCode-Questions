@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Monotonic Queue
 |  |
