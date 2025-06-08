@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
@@ -452,4 +453,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
