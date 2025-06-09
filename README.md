@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -444,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 ## Bitmask
