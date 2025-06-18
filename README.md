@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
+| [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
+| [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Backtracking
@@ -357,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
