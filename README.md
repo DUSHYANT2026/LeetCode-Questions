@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2478-longest-nice-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Math
