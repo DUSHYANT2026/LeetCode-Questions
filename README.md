@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
