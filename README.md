@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
