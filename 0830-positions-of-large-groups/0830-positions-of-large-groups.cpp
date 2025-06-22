@@ -16,6 +16,7 @@ public:
                 end = i;
             }
         }
+        if(abs(start-end) >= 2) ans.push_back({start,end});
         return ans;
     }
 };
