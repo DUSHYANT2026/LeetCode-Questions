@@ -10,19 +10,20 @@
  * };
  */
 class Solution {
-public:
-    void dfscheck(TreeNode* root, string sum , int &ans){
-        if(root == NULL) return;
-        sum += to_string(root->val);
-        if(root->left == NULL && root->right == NULL){
-            ans += stoi(sum);
+private:
+    int dfscheck(TreeNode*  root,int& sum,int node){
+        if(root == NULL) return 0;
+        node = node*10+root->val;
+        dfscheck(root->left,sum,node);
+        dfscheck(root->right,sum,node);
+        if(root->left == NULL && root->right==NULL){
+            sum+=node;
         }
-        dfscheck(root->left,sum,ans);
-        dfscheck(root->right,sum,ans);
+        return sum;
     }
+public:
     int sumNumbers(TreeNode* root) {
-        int ans = 0;
-        dfscheck(root,"",ans);
-        return ans;
+        int sum=0;
+        return dfscheck(root,sum,0);
     }
 };
