@@ -11,10 +11,9 @@
  */
 class Solution {
 private: 
-int count=0;
-void dfscheck(TreeNode*  &root , long long  targetSum ){
-    if(root ==NULL )
-    return ;
+int count = 0;
+void  dfscheck(TreeNode*  root , int targetSum ){
+    if(root == NULL ) return;
     if(root->val ==  targetSum ){
         count++;
     }
@@ -23,8 +22,7 @@ void dfscheck(TreeNode*  &root , long long  targetSum ){
 }
 public:
     int pathSum(TreeNode* root, int targetSum) {
-        if(root == NULL)
-        return 0;
+        if(root == NULL) return 0;
         dfscheck(root,targetSum);
         pathSum(root->left,targetSum);
         pathSum(root->right,targetSum);
