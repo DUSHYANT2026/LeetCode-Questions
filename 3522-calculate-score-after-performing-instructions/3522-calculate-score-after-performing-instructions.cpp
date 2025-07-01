@@ -7,14 +7,14 @@ public:
         for(int i=0; i<nums.size(); i++){
             if(vis[i] == 0){
                 vis[i] = 1;
-                i = i%n;
+                // i = i%n;
                 if(nums[i] == "jump"){
                     i = (i + values[i]-1);
                 }else if(nums[i] == "add"){
                     ans += values[i];
                 }
             }
-            else return ans;
+            // else return ans;
         }
         return ans;
     }
