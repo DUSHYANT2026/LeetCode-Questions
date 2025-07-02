@@ -7,4 +7,5 @@
 
 
 select Department.name as Department, employee.name as Employee , employee.salary as Salary from employee,Department where salary in
-(select max(e.salary) from employee e where e.departmentId = department.id group by department.id); 
+(select max(e.salary) from employee e where e.departmentId = department.id group by e.departmentid); 
+
