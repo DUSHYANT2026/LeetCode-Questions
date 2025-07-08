@@ -1,0 +1,5 @@
+# Write your MySQL query statement below
+
+
+
+select customer_id from customer group by customer_id having count(product_key) in (select count(*) from product)
