@@ -28,29 +28,27 @@
 class Solution {
 public:
     char processStr(string s, long long k) {
-        long long len = 0;
-        for(auto c:s){
-            if(islower(c)) len++;
-            else if(c=='*' && len>0) len--;
-            else if(c=='#') len *= 2;
-        }
-        if(k >= len) return '.';
+        long long len = 0, ma = 4e18;
+        vector<long long> lens;
+        for(auto& ch : s) {
+            if(isalpha(ch)) len++;
+            else if(ch == '*') len = max(len - 1, 0ll);
+            else if(ch == '#') len = min(len * 2, ma);
 
-        for(int i = s.size()-1; i >= 0; --i){
-            char c = s[i];
-            if(islower(c)) {
-                if(k == len - 1) return c;
-                len--;
-            }
-            else if(c == '*') len++;
-            else if(c == '#') {
-                len /= 2;
-                if(k >= len) k -= len;
-            }
-            else if(c == '%') {
-                k = len - 1 - k;
+            lens.push_back(len);
+        }
+
+        if(len <= k or len == 0) return '.';
+
+        for(int i = s.length() - 1; i >= 0; i--) {
+            if(isalpha(s[i])) {
+                if(lens[i] - 1 == k) return s[i];
+            } else if(s[i] == '#') {
+                k = k % (lens[i] / 2);
+            } else if(s[i] == '%') {
+                k = lens[i] - k - 1;
             }
         }
-        return '.';
+        return '#';
     }
 };
