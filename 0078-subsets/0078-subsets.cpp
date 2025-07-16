@@ -1,24 +1,19 @@
 class Solution {
-private:
-    void dpcheck(vector<vector<int>> &ans, vector<int> &temp,vector<int> &nums,
-    int index){
-        int n = nums.size();
-    if(index == n){
-        ans.push_back(temp);
-        return;
-    }
-    if(index < n){
-        temp.push_back(nums[index]);
-        dpcheck(ans,temp,nums,index+1);
-        temp.pop_back();
-        dpcheck(ans,temp,nums,index+1);
-    }
-    }
 public:
+    void dpcheck(int index, vector<vector<int>> &ans, vector<int> &nums, vector<int> temp){
+        if(index == nums.size()){
+            ans.push_back(temp);
+            return;
+        }
+        temp.push_back(nums[index]);
+        dpcheck(index+1,ans,nums,temp);
+        temp.pop_back();
+        dpcheck(index+1,ans,nums,temp);
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> temp;
-        dpcheck(ans,temp,nums,0);
+        dpcheck(0,ans,nums,temp);
         return ans;
     }
 };
