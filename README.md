@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -534,8 +537,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
