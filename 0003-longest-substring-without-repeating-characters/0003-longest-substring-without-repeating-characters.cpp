@@ -1,17 +1,16 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        int count = 0;
-        int start = -1;
+    int lengthOfLongestSubstring(string nums) {
+        int ans = 0;
         unordered_map<char,int> mapp;
-
-        for(int i=0;i<s.size();i++){
-            if (mapp.count(s[i]) != 0) {
-                start = max(start, mapp[s[i]]);
+        int x = -1;
+        for(int i=0; i<nums.size(); i++){
+            if(mapp.count(nums[i]) > 0){
+                x = max(mapp[nums[i]],x);
             }
-            mapp[s[i]] = i;
-            count = max(count, i-start);
+            ans = max(ans,i-x);
+            mapp[nums[i]] = i;
         }
-        return count;
+        return ans;
     }
 };
