@@ -1,23 +1,29 @@
 class Solution {
 public:
-    bool reorderedPowerOf2(int n) {
-        
-        // do{
-        //     // while(n != 1){
-        //     //     if(n%2 != 0){
-        //     //         return false;
-        //     //     }
-        //     //     n = n/2;
-        //     // }
-        // }while(n = next_permutation(n));
+    bool reorderedPowerOf2(int x) {
+        vector<int> nums;
 
-            while(n != 1){
-                if(n%2 != 0){
-                    return false;
-                }
-                n = n/2;
+        while(x != 0){
+            nums.push_back(x%10);
+            x = x/10;
+        }
+        
+        sort(nums.begin(), nums.end());
+
+        do{
+            if (nums[0] == 0) {
+                continue;
+            }
+            long long int n = 0;
+            for(auto it : nums){
+                n = (n*10) + it;
             }
 
-        return true;
+            if (n > 0 && (n & (n - 1)) == 0) {
+                return true;
+            }
+        } while (next_permutation(nums.begin(), nums.end()));
+
+        return false;
     }
 };
