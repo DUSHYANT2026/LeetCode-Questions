@@ -34,6 +34,6 @@ public:
         for(auto it : nums){
             cout<<it.first<<" "<<it.second<<endl;
         }
-        return (nums.first == 0) ? "" : nums[0].second;
+        return (nums[0].first == 0) ? "" : nums[0].second;
     }
 };
