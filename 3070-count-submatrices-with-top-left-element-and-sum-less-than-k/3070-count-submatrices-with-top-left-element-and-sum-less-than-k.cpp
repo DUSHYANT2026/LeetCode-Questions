@@ -16,18 +16,15 @@ public:
         }
 
         for(int i=1; i<n; i++){
-            long long int sum = 0;
             for(int j=1; j<m; j++){
-                grid[i][j] = grid[i-1][j] + grid[i][j-1] - grid[i-1][j-1] + grid[i][j];
+                grid[i][j] = (long long)(grid[i-1][j] + grid[i][j-1] - grid[i-1][j-1] + grid[i][j]);
             }
         } 
         long long int count = 0;
         for(auto it : grid){
             for(auto i : it){
                 if(i <= k) count++;
-                cout<<i<<" ";
             }
-            cout<<endl;
         }
         return count;
     }
