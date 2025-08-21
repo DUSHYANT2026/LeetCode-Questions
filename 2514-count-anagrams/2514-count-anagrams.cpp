@@ -1,28 +1,58 @@
+#include <string>
+#include <vector>
+#include <sstream>
+#include <map>
+
+using namespace std;
+
 class Solution {
 public:
-    int countAnagrams(string s) {
-        vector<int> nums;
-        stringstream ss(s);
+    long long power(long long base, long long exp) {
+        long long res = 1;
+        long long mod = 1e9 + 7;
+        base %= mod;
+        while (exp > 0) {
+            if (exp % 2 == 1) res = (res * base) % mod;
+            base = (base * base) % mod;
+            exp /= 2;
+        }
+        return res;
+    }
 
-        vector<string> ans;
-        string temp = "";
-        while(ss >> temp){
-            ans.push_back(temp);
+    long long modInverse(long long n) {
+        long long mod = 1e9 + 7;
+        return power(n, mod - 2);
+    }
+
+    int countAnagrams(string s) {
+        long long mod = 1e9 + 7;
+        vector<long long> fact(s.length() + 1);
+        fact[0] = 1;
+        for (int i = 1; i <= s.length(); i++) {
+            fact[i] = (fact[i - 1] * i) % mod;
         }
-   
-        for(auto it : ans){
-            sort(it.begin(),it.end());
-            set<string> x;
-            do{
-                x.insert(it);
-            }while(next_permutation(it.begin(),it.end()));
-            nums.push_back(x.size());
+
+        stringstream ss(s);
+        string word;
+        long long ans = 1;
+
+        while (ss >> word) {
+            int n = word.length();
+            map<char, int> counts;
+            for (char c : word) {
+                counts[c]++;
+            }
+
+            long long num = fact[n];
+            long long den = 1;
+            for (auto const& pair : counts) {
+                den = (den * fact[pair.second]) % mod;
+            }
+
+            long long word_ans = (num * modInverse(den)) % mod;
+            ans = (ans * word_ans) % mod;
         }
-long long mod = 1000000007;
-long long count = 1;
-for(auto it : nums) {
-    count = (count * it) % mod;
-}
-return count;
+
+        return (int)ans;
     }
 };
