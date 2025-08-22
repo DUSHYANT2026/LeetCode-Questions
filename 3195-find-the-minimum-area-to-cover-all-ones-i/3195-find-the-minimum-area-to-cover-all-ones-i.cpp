@@ -13,9 +13,7 @@ public:
         }
         sort(counti.begin(),counti.end());
         sort(countj.begin(),countj.end());
-        for(auto it : counti) cout<<it<<" ";
-        cout<<endl;
-        for(auto it : countj) cout<<it<<" ";
+    
 
         int ans = (counti[counti.size()-1] - counti[0] +1) * (countj[countj.size()-1] - countj[0] +1) ;
         return ans;
