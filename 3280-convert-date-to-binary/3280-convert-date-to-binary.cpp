@@ -15,12 +15,7 @@ public:
         int y = stoi(date.substr(0,4));
         int m = stoi(date.substr(5,7));
         int d = stoi(date.substr(8,10));
-       
-        ans = numtobinary(y);
-        ans += "-";
-        ans += numtobinary(m);
-        ans += "-";
-        ans += numtobinary(d);
-        return ans; 
+
+        return numtobinary(y)+"-"+numtobinary(m)+"-"+numtobinary(d); 
     }
 };
