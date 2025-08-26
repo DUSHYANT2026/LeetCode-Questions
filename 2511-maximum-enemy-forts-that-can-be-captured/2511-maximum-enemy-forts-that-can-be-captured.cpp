@@ -1,13 +1,24 @@
 class Solution {
 public:
     int captureForts(vector<int>& forts) {
-           int res = 0;
-    for (int i = 0, j = 0; i < forts.size(); ++i)
-        if (forts[i] != 0) {
-            if (forts[j] == -forts[i])
-                res = max(res, i - j - 1);
-            j = i;
+        int n = forts.size();
+        int ans = 0; 
+        int i = 0;
+        int j = 0;
+
+        while(j < n)
+        {
+           if( i != j && forts[i] != 0 && forts[j] != 0 )
+            {
+                if(forts[i] != forts[j])
+                 ans = max(ans, j-i-1);
+             i++;
+            }
+          while( i< j && forts[i] == 0)
+           i++;
+
+        j++;
         }
-    return res; 
+        return ans;
     }
 };
