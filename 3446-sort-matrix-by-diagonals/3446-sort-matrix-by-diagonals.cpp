@@ -10,7 +10,7 @@ public:
                 if(j > i){
                     pq[j-i].push(mat[i][j]);
                 }else{
-                    pq1[i-j].push(mat[i][j]);
+                    pq1[j-i].push(mat[i][j]);
                 }
             }
         }
@@ -20,8 +20,8 @@ public:
                     mat[i][j] = pq[j-i].top();
                     pq[j-i].pop();
                 }else{
-                    mat[i][j] = pq1[i-j].top();
-                    pq1[i-j].pop();
+                    mat[i][j] = pq1[j-i].top();
+                    pq1[j-i].pop();
                 }
             }
         }
