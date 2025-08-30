@@ -15,7 +15,7 @@ public:
         vector<int> graph[n];
 
         for(int i=0; i<n; i++){
-            int x = bombs[i][0]; int y = bombs[i][1]; int radius = bombs[i][2];
+            long long x = bombs[i][0]; long long y = bombs[i][1]; long long radius = bombs[i][2];
             for(int j=0; j<n; j++){
                 if(i == j) continue;
                 else{
