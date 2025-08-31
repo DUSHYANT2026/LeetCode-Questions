@@ -6,13 +6,9 @@ public:
             mapp[n%10]++;
             n/=10;
         }
-        int ans = INT_MAX;
-        int mini = INT_MAX;
-        for(auto  it : mapp){
-            if(it.second < mini){
-                mini = it.second;
-            }
-        }
+        int ans = INT_MAX; int mini = INT_MAX;
+        for(auto  it : mapp) mini = min(mini, it.second);
+
         for(auto it : mapp){
             if(it.second == mini){
                 if(ans > it.first){
