@@ -1,7 +1,6 @@
 class Solution {
 private:
-    void dfscheck(int n,int m,vector<vector<int>>& image,
-    vector<vector<int>>& ans,int sr,int sc,int color,int initialcolor){
+    void dfscheck(int n,int m,vector<vector<int>>& image, vector<vector<int>>& ans,int sr,int sc,int color,int initialcolor){
         ans[sr][sc] = color;
 
         int delrow[] = {0,+1,0,-1};
