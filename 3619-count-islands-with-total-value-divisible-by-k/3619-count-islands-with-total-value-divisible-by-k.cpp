@@ -2,7 +2,7 @@ class Solution {
 public:
     void dfscheck(int row, int col, int n, int m,long long& sum, vector<vector<int>> &vis, vector<vector<int>> &grid){
         vis[row][col] = 1; 
-        sum += grid[nrow][ncol];
+        sum += grid[row][col];
 
         vector<pair<int,int>> del = {{1,0},{-1,0},{0,1},{0,-1}};
         for(int i=0; i<4; i++){
