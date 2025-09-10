@@ -26,45 +26,57 @@
 
 
 
-
 class Solution {
 public:
+vector<int>ans;
     vector<int> findSubstring(string s, vector<string>& words) {
-        vector<int>ans;
-        int n=words.size();
-        int m=words[0].size();
-        int total=n*m;
-        if(s.size()<total){
-            return ans;
+        
+        if (s.empty() || words.empty()) return ans;
+
+        int wordLen = words[0].size();
+        int wordCount = words.size();
+        int totalLen = wordLen * wordCount;
+
+        if (s.size() < totalLen) return ans;
+
+        unordered_map<string, int> wordsMap;
+        for (const string& word : words) {
+            wordsMap[word]++;
         }
-        for(int i=0;i<=s.size()-total;i++){
-            unordered_map<string,int>mp;
-            
-            for(int j=0;j<words.size();j++){
-                mp[words[j]]++;
-            }
-            int k;
-            for(k=0;k<n;k++){
-                
-                string temp=s.substr(i+k*m,m);
-                // cout<<temp<<" "<<i<<endl;
-                if(mp.count(temp)==0){
-                    break;
-                }
-                else{
-                    if(mp[temp]!=0){
-                        mp[temp]--;
+
+        // There are wordLen different starting points
+        for (int i = 0; i < wordLen; ++i) {
+            int left = i, right = i;
+            unordered_map<string, int> windowMap;
+            int count = 0;
+
+            while (right + wordLen <= s.size()) {
+                string word = s.substr(right, wordLen);
+                right += wordLen;
+
+                if (wordsMap.count(word)) {
+                    windowMap[word]++;
+                    count++;
+
+                    while (windowMap[word] > wordsMap[word]) {
+                        string leftWord = s.substr(left, wordLen);
+                        windowMap[leftWord]--;
+                        count--;
+                        left += wordLen;
                     }
-                    else{
-                        break;
+
+                    if (count == wordCount) {
+                         ans.push_back(left);
                     }
+                } else {
+                    // Not a valid word, reset window
+                    windowMap.clear();
+                    count = 0;
+                    left = right;
                 }
             }
-            if(k==n){
-                ans.push_back(i);
-            }
-            
         }
-        return ans ;
+
+        return ans;
     }
 };
