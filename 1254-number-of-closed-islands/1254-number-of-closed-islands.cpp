@@ -21,7 +21,7 @@ public:
         int count = 0;
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(!grid[i][j] && (i == 0 || j == 0 || i == n-1 || j == m-1)){
+                if(!vis[i][j] && !grid[i][j] && (i == 0 || j == 0 || i == n-1 || j == m-1)){
                     dfscheck(i,j,n,m,grid,vis);
                 }
             }
