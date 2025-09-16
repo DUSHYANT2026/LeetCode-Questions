@@ -19,7 +19,7 @@ public:
     }
 
     unordered_map<int, int> prefix_freq;
-    vector<std::pair<int, int>> pre(n);
+    vector<pair<int, int>> pre(n);
     int max_freq = 0;
     int max_elem = -1;
     for (int i = 0; i < n; ++i) {
