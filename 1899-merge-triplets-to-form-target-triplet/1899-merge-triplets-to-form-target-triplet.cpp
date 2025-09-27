@@ -1,31 +1,30 @@
 class Solution {
 public:
     bool mergeTriplets(vector<vector<int>>& triplets, vector<int>& target) {
-        int maxi = 0;
-        for(auto it : target) maxi = max(maxi, it);
+        bool match0 = false;
+        bool match1 = false;
+        bool match2 = false;
 
-        vector<vector<int>> nums;
-        for(int i=0; i<triplets.size(); i++){
-            vector<int> temp = triplets[i]; bool mark = false;
-
-            for(auto it : temp){
-                if(it > maxi) mark = true; 
+        for (auto triplet : triplets) {
+            if (triplet[0] > target[0] || triplet[1] > target[1] || triplet[2] > target[2]) {
+                continue;
             }
-            if(mark == false) nums.push_back(temp);
-        }
 
-        vector<vector<int>> newnums;
-        for(int i=0; i<3; i++){
-            vector<int> temp;
-            for(int j=0; j<nums.size(); j++){
-                temp.push_back(nums[j][i]);
+            if (triplet[0] == target[0]) {
+                match0 = true;
             }
-            newnums.push_back(temp);
+            if (triplet[1] == target[1]) {
+                match1 = true;
+            }
+            if (triplet[2] == target[2]) {
+                match2 = true;
+            }
+            
+            if (match0 && match1 && match2) {
+                return true;
+            }
         }
 
-        for(int i=0; i<3; i++){
-            if(find(newnums[i].begin(),newnums[i].end() , target[i]) == newnums[i].end()) return false;
-        }
-        return true;
+        return match0 && match1 && match2;
     }
 };
