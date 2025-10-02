@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3495-k-th-nearest-obstacle-queries) |
+| [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
