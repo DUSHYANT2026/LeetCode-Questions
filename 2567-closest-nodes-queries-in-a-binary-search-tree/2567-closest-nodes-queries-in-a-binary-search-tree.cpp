@@ -17,85 +17,42 @@ private:
         nums.push_back(root->val);
         dfscheck(root->right,nums);
     }
-// int findceil(vector<int> &nums, int temp){
-//     int ans = -1;
-//     int minCeil = INT_MAX;
-//     for(auto it : nums){
-//         if(it >= temp && it < minCeil){
-//             minCeil = it;
-//             ans = it;
-//         }
-//     }
-//     return ans;
-// }
-
-// int findfloor(vector<int> &nums, int temp){
-//     int ans = -1;
-//     int maxFloor = INT_MIN;
-//     for(auto it : nums){
-//         if(it <= temp && it > maxFloor){
-//             maxFloor = it;
-//             ans = it;
-//         }
-//     }
-//     return ans;
-// }
-
-int findfloor(const vector<int>& nums, int target) {
-    int left = 0;
-    int right = nums.size() - 1;
-    int floor = -1;
-    
-    while (left <= right) {
-        int mid = left + (right - left) / 2;
-        
-        if (nums[mid] == target) {
-            return nums[mid];
+    int findmin(vector<int> &nums, int target){
+        int s = 0; int e = nums.size()-1;
+        int ans = -1;
+        while(s <= e){
+            int mid = (e+s)/2;
+            if(nums[mid] == target) return nums[mid];
+            else if(nums[mid] < target){
+                ans = nums[mid];
+                s = mid+1;
+            }
+            else e = mid -1;
         }
-        else if (nums[mid] < target) {
-            floor = nums[mid];
-            left = mid + 1;
-        }
-        else {
-            right = mid - 1;
-        }
+        return ans;
     }
-    
-    return floor;
-}
-int findceil(const vector<int>& nums, int target) {
-    int left = 0;
-    int right = nums.size() - 1;
-    int ceil = INT_MAX;
-    
-    while (left <= right) {
-        int mid = left + (right - left) / 2;
-        
-        if (nums[mid] == target) {
-            return nums[mid];
+    int findmax(vector<int> &nums, int target){
+        int s = 0; int e = nums.size()-1;
+        int ans = -1;
+        while(s <= e){
+            int mid = (s+e)/2;
+            if(nums[mid] == target) return nums[mid];
+            else if(nums[mid] > target){
+                ans = nums[mid];
+                e = mid-1;
+            } 
+            else s = mid+1;
         }
-        else if (nums[mid] > target) {
-            ceil = nums[mid];
-            right = mid - 1;
-        }
-        else {
-            left = mid + 1;
-        }
+        return ans;
     }
-    
-    return ceil;
-}
 public:
     vector<vector<int>> closestNodes(TreeNode* root, vector<int>& queries) {
         vector<vector<int>> ans;
-        if(root == NULL) return ans;
         vector<int> nums;
         dfscheck(root,nums);
 
         for(auto it : queries){
-            int x = findceil(nums,it);
-            if(x == INT_MAX) x = -1;
-            ans.push_back({findfloor(nums,it),x});
+            ans.push_back({findmin(nums,it),findmax(nums,it)});
         }
         return ans;
     }
