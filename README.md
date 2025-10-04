@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |

@@ -19,7 +19,11 @@ public:
         sort(nums.begin(),nums.end());
         set<vector<int>> s;
         vector<int> temp;
-        dfscheck(0,nums.size(),temp,nums,s);
+        // dfscheck(0,nums.size(),temp,nums,s);
+        // for(auto it : s) ans.push_back(it);
+        do{
+            s.insert(nums);
+        }while(next_permutation(nums.begin(),nums.end()));
         for(auto it : s) ans.push_back(it);
         return ans;
     }
