@@ -12,8 +12,7 @@ public:
                 }
                 ans.push_back(words[i]);
                 mp[x]++;
-            } 
-            // else if(mp[x]==1) continue;        
+            }      
         }
         return ans;
     }
