@@ -27,7 +27,7 @@ public:
         if(indegree[it] == 0) q.push(it);
       }
       }
-       
-        return ans.size() == numCourses;
+        if(ans.size()==numCourses) return true;
+        return false;
     }
 };
