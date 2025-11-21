@@ -9,4 +9,4 @@ union all
 
 (select title as results
 from MovieRating m join Movies mm on m.movie_id = mm.movie_id 
-group by m.movie_id order by  ( sum(if(month(created_at) = 2,rating,0)) / sum(if(month(created_at) = 2, 1 , 0)) ) desc, title asc limit 1)
+group by m.movie_id order by  ( sum(if((month(created_at) = 2 && year(created_at) = 2020) ,rating,0)) / sum(if((month(created_at) = 2 && year(created_at) = 2020), 1 , 0)) ) desc, title asc limit 1)
