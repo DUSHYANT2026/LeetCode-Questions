@@ -1,31 +1,31 @@
 class Solution {
-private:
-    void dfscheck(int node, int& count1, int& count2, vector<int> &vis, vector<int> graph[]){
-        vis[node] = 1;
-        count1++;
-        for(auto it : graph[node]){
-            count2++;
+private: 
+    void dfscheck(int node,vector<int> &vis,vector<int> adj[],int &nodecount,int &edgecount){
+        vis[node] = 1; 
+        nodecount++;
+        for(auto it : adj[node]){
+            edgecount++;
             if(!vis[it]){
-                dfscheck(it,count1,count2,vis,graph);
+                dfscheck(it,vis,adj,nodecount,edgecount);
             }
         }
     }
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<int> graph[n];
-        for(auto it : edges){
-            graph[it[0]].push_back(it[1]);
-            graph[it[1]].push_back(it[0]);
-        }
+        vector<int> adj[n];
         vector<int> vis(n,0);
-        int ans = 0;
-        for(int i=0; i<n; i++){
+        for(auto  it : edges){
+            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
+        }
+        int count=0;
+        for(int i=0;i<n;i++){
+            int nodecount = 0; int edgecount=0;
             if(!vis[i]){
-                int edge = 0; int node = 0;
-                dfscheck(i,node,edge,vis,graph);
-                if(edge == node*(node-1)) ans++;
+                dfscheck(i,vis,adj,nodecount,edgecount);
+                if(nodecount*(nodecount-1) == edgecount) count++;
             }
         }
-        return ans;
+        return count;
     }
 };
