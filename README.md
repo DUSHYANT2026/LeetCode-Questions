@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
+| [0981-delete-columns-to-make-sorted](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
+| [0981-delete-columns-to-make-sorted](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
