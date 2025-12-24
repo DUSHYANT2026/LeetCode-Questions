@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3334-apple-redistribution-into-boxes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
