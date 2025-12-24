@@ -597,5 +597,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [3530-odd-and-even-transactions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3530-odd-and-even-transactions) |
 | [3921-find-consistently-improving-employees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3921-find-consistently-improving-employees) |
 <!---LeetCode Topics End-->
