@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/">2328. Number of Increasing Paths in a Grid</a></h2><h3>Hard</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>grid</code>, where you can move from a cell to any adjacent cell in all <code>4</code> directions.</p>
+<h2><a href="https://leetcode.com/problems/number-of-increasing-paths-in-a-grid">2328. Number of Increasing Paths in a Grid</a></h2><h3>Hard</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>grid</code>, where you can move from a cell to any adjacent cell in all <code>4</code> directions.</p>
 
 <p>Return <em>the number of <strong>strictly</strong> <strong>increasing</strong> paths in the grid such that you can start from <strong>any</strong> cell and end at <strong>any</strong> cell. </em>Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
 
