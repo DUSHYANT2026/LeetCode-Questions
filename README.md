@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1022-unique-paths-iii) |
