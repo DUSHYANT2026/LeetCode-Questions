@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1040-maximum-binary-tree-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1040-maximum-binary-tree-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1040-maximum-binary-tree-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
