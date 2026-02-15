@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0419-battleships-in-a-board) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
