@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1612-avoid-flood-in-the-city](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Trie
 |  |
@@ -619,4 +623,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3530-odd-and-even-transactions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3530-odd-and-even-transactions) |
 | [3921-find-consistently-improving-employees](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3921-find-consistently-improving-employees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
