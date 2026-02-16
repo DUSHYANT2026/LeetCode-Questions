@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
 ## Dynamic Programming
