@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3651-transformed-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3651-transformed-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3651-transformed-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3651-transformed-array) |
 ## Memoization
 |  |
 | ------- |
