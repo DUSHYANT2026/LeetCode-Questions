@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-maximum-binary-tree-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1040-maximum-binary-tree-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-maximum-binary-tree-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1040-maximum-binary-tree-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -567,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Monotonic Queue
 |  |
