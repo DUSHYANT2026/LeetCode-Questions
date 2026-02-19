@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0599-minimum-index-sum-of-two-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [0981-delete-columns-to-make-sorted](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Heap (Priority Queue)
