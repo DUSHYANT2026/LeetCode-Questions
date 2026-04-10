@@ -8,7 +8,6 @@ public:
         for(auto it : mapp){
             vector<int> v = it.second;
             if(v.size() >= 3){
-                sort(v.begin(),v.end());
                 for(int i=1; i<v.size()-1; i++){
                     ans = min(ans, 2* ( ( max(v[i+1] , (max(v[i-1],v[i])))) -   (min(min(v[i-1],v[i]),v[i]))  ));
                 }
