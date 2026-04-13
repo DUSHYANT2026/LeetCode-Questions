@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
