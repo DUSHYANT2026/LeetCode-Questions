@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1656-count-good-triplets) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
@@ -691,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
