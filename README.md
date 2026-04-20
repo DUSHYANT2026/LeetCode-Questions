@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Heap (Priority Queue)
