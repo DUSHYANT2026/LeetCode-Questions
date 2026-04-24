@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3519-find-the-number-of-winning-players](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3519-find-the-number-of-winning-players) |
 | [3778-transform-array-by-parity](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3778-transform-array-by-parity) |
