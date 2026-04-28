@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2109-find-array-given-subset-sums](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2109-find-array-given-subset-sums) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2202-sum-of-k-mirror-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-special-positions-in-a-binary-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
