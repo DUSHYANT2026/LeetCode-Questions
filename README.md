@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0796-rotate-string/) | Easy |
 | [0800-letter-case-permutation](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0800-letter-case-permutation) |
 | [0981-delete-columns-to-make-sorted](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0796-rotate-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
