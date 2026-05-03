@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
+| [0788-rotated-digits](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0788-rotated-digits/) | Medium |
 | [0976-minimum-area-rectangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0976-minimum-area-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1094-matrix-cells-in-distance-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0788-rotated-digits](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0788-rotated-digits/) | Medium |
 | [0803-cheapest-flights-within-k-stops](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
