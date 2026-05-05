@@ -636,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
