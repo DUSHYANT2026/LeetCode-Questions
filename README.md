@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
+| [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
+| [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -546,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
+| [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
