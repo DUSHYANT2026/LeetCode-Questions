@@ -8,7 +8,7 @@ public:
         int rs = 0, re = n - 1;
         int cs = 0, ce = m - 1;
 
-        for (int l = 0; l < layers; l++) {
+        while(layers--) {
             vector<int> v;
 
             for (int j = cs; j <= ce; j++) v.push_back(grid[rs][j]);
