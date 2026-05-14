@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2308-divide-array-into-equal-pairs](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
 | [2615-sum-of-distances](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -495,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2784-check-if-array-is-good](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3334-apple-redistribution-into-boxes) |
