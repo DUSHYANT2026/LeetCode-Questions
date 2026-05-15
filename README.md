@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0174-dungeon-game](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0436-find-right-interval) |
