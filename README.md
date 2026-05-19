@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2378-sender-with-largest-word-count](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2378-sender-with-largest-word-count) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -710,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
