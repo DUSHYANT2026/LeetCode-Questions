@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1876-map-of-highest-peak) |
+| [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -537,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2439-longest-cycle-in-a-graph](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
