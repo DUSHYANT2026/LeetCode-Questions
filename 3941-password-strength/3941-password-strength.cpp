@@ -6,9 +6,9 @@ public:
        int ans = 0;
        for(auto it : s){
     
-        if(it >= 'a' && it <= 'z'){ cout<<it<<" "; ans += 1; } 
-        else if(it >= 'A' && it <= 'Z'){  cout<<it<<" "; ans += 2; }
-        else if(it-'0' >= 0 && it-'0' <= 9){  cout<<it<<" "; ans += 3; }
+        if(it >= 'a' && it <= 'z') ans += 1;  
+        else if(it >= 'A' && it <= 'Z') ans += 2; 
+        else if(it-'0' >= 0 && it-'0' <= 9) ans += 3; 
         else ans += 5; 
        } 
        return ans;
