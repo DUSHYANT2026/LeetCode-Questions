@@ -6,14 +6,11 @@ public:
             if(nums[i-1] == nums[i]){
                 if(count < k){
                     count++;
-                    cout<<1<<" "<<endl;
                 }
-                else {cout<<2<<" "<<endl; nums.erase(nums.begin()+i); i--; }
+                else{ nums.erase(nums.begin()+i); i--; }
             }
-            else {cout<<3<<" "<<endl; count = 1;}
+            else count = 1;
         }
-        cout<<endl;
-        for(auto it : nums) cout<<it<<" ";
         return nums;
     }
 };
