@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2576-minimum-penalty-for-a-shop](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3488-closest-equal-element-queries](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -727,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
