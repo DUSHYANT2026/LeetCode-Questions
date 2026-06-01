@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0794-swim-in-rising-water](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0835-linked-list-components](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0835-linked-list-components) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0289-game-of-life](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0735-asteroid-collision/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/2211-count-collisions-on-a-road/) | Medium |
@@ -724,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
+| [0735-asteroid-collision](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/dushyant-1312/LeetCode-Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/DUSHYANT2026/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
